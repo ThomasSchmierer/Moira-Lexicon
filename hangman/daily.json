@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "measure": "English Wikipedia page views this year, with this week's views counted four times",
  "days": {
   "2026-11-11": {
@@ -58,6 +58,16 @@
    "scope": "week",
    "views": 103310,
    "year": "2026"
+  },
+  "2026-11-17": {
+   "w": "ringleader",
+   "line": "…She's our charge nurse. She is the <mark>ringleader</mark> of our circus. Do what she says,…",
+   "src": "The Pitt",
+   "kind": "tv",
+   "rank": 9,
+   "scope": "year",
+   "views": 7411173,
+   "year": ""
   }
  }
 }

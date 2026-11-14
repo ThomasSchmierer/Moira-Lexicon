@@ -1,37 +1,37 @@
-# Last night's harvest (2026-11-13)
+# Last night's harvest (2026-11-14)
 
 | Source | Pages | Candidate words | Spreadsheet |
 |---|---|---|---|
-| Jurassic World Rebirth | 1 | 47 | [jurassic-world-rebirth.csv](jurassic-world-rebirth.csv) |
-| Evil Dead Rise | 1 | 32 | [evil-dead-rise.csv](evil-dead-rise.csv) |
-| Mayday (2026 film) | 1 | 6 | [mayday-2026-film.csv](mayday-2026-film.csv) |
-| Scary Movie | 1 | 16 | [scary-movie.csv](scary-movie.csv) |
-| The Dark Knight Rises | 1 | 47 | [the-dark-knight-rises.csv](the-dark-knight-rises.csv) |
-| America's Next Top Model | 20 | 422 | [america-s-next-top-model.csv](america-s-next-top-model.csv) |
-| The Sopranos | 7 | 530 | [the-sopranos.csv](the-sopranos.csv) |
-| 11.22.63 | 1 | 18 | [11-22-63.csv](11-22-63.csv) |
-| Mortal Kombat (2021 film) | 1 | 18 | [mortal-kombat-2021-film.csv](mortal-kombat-2021-film.csv) |
-| The Batman (film) | 1 | 11 | [the-batman-film.csv](the-batman-film.csv) |
-| South Park | 29 | 1111 | [south-park.csv](south-park.csv) |
-| The Mentalist | 7 | 343 | [the-mentalist.csv](the-mentalist.csv) |
-| Office Romance (2026 film) | 1 | 1 | [office-romance-2026-film.csv](office-romance-2026-film.csv) |
-| Thunderbolts* | 1 | 24 | [thunderbolts.csv](thunderbolts.csv) |
-| Toy Story 4 | 1 | 18 | [toy-story-4.csv](toy-story-4.csv) |
-| Steel Magnolias | 1 | 71 | [steel-magnolias.csv](steel-magnolias.csv) |
-| 28 Days Later | 1 | 27 | [28-days-later.csv](28-days-later.csv) |
-| Dune (2021 film) | 1 | 45 | [dune-2021-film.csv](dune-2021-film.csv) |
-| Ghosts (American TV series) | 6 | 76 | [ghosts-american-tv-series.csv](ghosts-american-tv-series.csv) |
-| Dawson's Creek | 7 | 406 | [dawson-s-creek.csv](dawson-s-creek.csv) |
-| Wednesday (TV series) | 1 | 44 | [wednesday-tv-series.csv](wednesday-tv-series.csv) |
-| M*A*S*H (TV series) | 12 | 506 | [m-a-s-h-tv-series.csv](m-a-s-h-tv-series.csv) |
-| The Golden Girls | 8 | 545 | [the-golden-girls.csv](the-golden-girls.csv) |
-| Will & Grace | 12 | 237 | [will-grace.csv](will-grace.csv) |
-| Bunheads | 1 | 73 | [bunheads.csv](bunheads.csv) |
-| Utopia (Australian TV series) | – | not found | – |
-| Frontline (Australian TV series) | 1 | 13 | [frontline-australian-tv-series.csv](frontline-australian-tv-series.csv) |
-| The Games (Australian TV series) | 1 | 82 | [the-games-australian-tv-series.csv](the-games-australian-tv-series.csv) |
-| Rake (Australian TV series) | – | not found | – |
-| Summer Heights High | 1 | 22 | [summer-heights-high.csv](summer-heights-high.csv) |
-| The Lady with the Dog and Other Stories | 1 | 1257 | [the-lady-with-the-dog-and-other-stories.csv](the-lady-with-the-dog-and-other-stories.csv) |
+| The Gilded Age (TV series) | 1 | 24 | [the-gilded-age-tv-series.csv](the-gilded-age-tv-series.csv) |
+| Friday the 13th (1980 film) | 2 | 13 | [friday-the-13th-1980-film.csv](friday-the-13th-1980-film.csv) |
+| Can This Love Be Translated? | 1 | 2 | [can-this-love-be-translated.csv](can-this-love-be-translated.csv) |
+| Rocky (film) | 2 | 19 | [rocky-film.csv](rocky-film.csv) |
+| Memento (film) | 1 | 8 | [memento-film.csv](memento-film.csv) |
+| Coraline (film) | 1 | 29 | [coraline-film.csv](coraline-film.csv) |
+| Toy Story | 1 | 109 | [toy-story.csv](toy-story.csv) |
+| Dunkirk (2017 film) | 1 | 9 | [dunkirk-2017-film.csv](dunkirk-2017-film.csv) |
+| The Mandalorian | 1 | 103 | [the-mandalorian.csv](the-mandalorian.csv) |
+| Doctor Strange in the Multiverse of Madness | 1 | 34 | [doctor-strange-in-the-multiverse-of-madness.csv](doctor-strange-in-the-multiverse-of-madness.csv) |
+| The Super Mario Bros. Movie | 1 | 22 | [the-super-mario-bros-movie.csv](the-super-mario-bros-movie.csv) |
+| Shin Godzilla | 1 | 15 | [shin-godzilla.csv](shin-godzilla.csv) |
+| Knives Out | 1 | 21 | [knives-out.csv](knives-out.csv) |
+| Yes, Dear | 1 | 2 | [yes-dear.csv](yes-dear.csv) |
+| Lost Highway (film) | 1 | 4 | [lost-highway-film.csv](lost-highway-film.csv) |
+| Deadpool & Wolverine | 1 | 67 | [deadpool-wolverine.csv](deadpool-wolverine.csv) |
+| Dark (TV series) | 1 | 51 | [dark-tv-series.csv](dark-tv-series.csv) |
+| Homeland (TV series) | 1 | 33 | [homeland-tv-series.csv](homeland-tv-series.csv) |
+| Spider-Man (2002 film) | 2 | 251 | [spider-man-2002-film.csv](spider-man-2002-film.csv) |
+| Moana (2016 film) | 1 | 18 | [moana-2016-film.csv](moana-2016-film.csv) |
+| Shaun Micallef's Mad as Hell | – | not found | – |
+| The Castle (1997 film) | – | not found | – |
+| Muriel's Wedding | – | not found | – |
+| The Dish | 1 | 14 | [the-dish.csv](the-dish.csv) |
+| Bluey (TV series) | – | not found | – |
+| The Princess Bride (film) | 1 | 71 | [the-princess-bride-film.csv](the-princess-bride-film.csv) |
+| Withnail and I | 1 | 61 | [withnail-and-i.csv](withnail-and-i.csv) |
+| Amadeus (film) | 1 | 32 | [amadeus.csv](amadeus.csv) |
+| The Grand Budapest Hotel | 1 | 25 | [the-grand-budapest-hotel.csv](the-grand-budapest-hotel.csv) |
+| Fantastic Mr. Fox (film) | 1 | 72 | [fantastic-mr-fox-film.csv](fantastic-mr-fox-film.csv) |
+| The Works of Edgar Allan Poe | 1 | 2760 | [the-works-of-edgar-allan-poe.csv](the-works-of-edgar-allan-poe.csv) |
 
-Still queued: 20 show(s). New words are checked and added to the game automatically after each harvest; see [REVIEW.md](REVIEW.md).
+Still queued: 9 show(s). New words are checked and added to the game automatically after each harvest; see [REVIEW.md](REVIEW.md).
